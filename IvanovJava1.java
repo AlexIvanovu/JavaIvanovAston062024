@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_1_1 {
+public class IvanovJava1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Задание 1.1.");
